@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Set of problems on the following topics: point groups and symmetry;
   bonding and crystal chemistry.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-108-structure-of-earth-materials-fall-2004/23d399592a512e3c6c4fb16e383f6ae7_problem_set1.pdf
+file: /media/courses/12-108-structure-of-earth-materials-fall-2004/23d399592a512e3c6c4fb16e383f6ae7_problem_set1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem_set1.pdf
 uid: 23d39959-2a51-2e3c-6c4f-b16e383f6ae7

@@ -3,8 +3,13 @@ content_type: resource
 description: 'Notes from the lecture covering the following topics: Review questions,
   reading assignment, additional reading, conduction mechanisms (ionic conduction,
   electronic conduction, conductivity and resistivity in minerals, Example, and bibliography.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-108-structure-of-earth-materials-fall-2004/1c1185215f29dae2cba4fb34ba421fc6_lec17.pdf
+file: /media/courses/12-108-structure-of-earth-materials-fall-2004/1c1185215f29dae2cba4fb34ba421fc6_lec17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec17.pdf
 uid: 1c118521-5f29-dae2-cba4-fb34ba421fc6

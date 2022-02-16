@@ -4,8 +4,13 @@ description: 'Notes from the lecture covering the following topics: The optical 
   refractive index and relief, isotropic vs anisotropic minerals, identifying isotropic
   minerals, beckeline method, identifying anisotropic minerals, optical indicatrix,
   interference colors, using interference colors for and identification.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-108-structure-of-earth-materials-fall-2004/458cd43bfba1a766d0d75ec87b0b0913_lecture11.pdf
+file: /media/courses/12-108-structure-of-earth-materials-fall-2004/458cd43bfba1a766d0d75ec87b0b0913_lecture11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture11.pdf
 uid: 458cd43b-fba1-a766-d0d7-5ec87b0b0913

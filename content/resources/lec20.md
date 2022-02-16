@@ -8,8 +8,13 @@ description: 'Notes from the lecture covering the following topics: Assigned rea
   formulations for isotropic elastic materials in
 
   principal stress representation.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-108-structure-of-earth-materials-fall-2004/1f8c6f71911526f241cfc9485376d011_lec20.pdf
+file: /media/courses/12-108-structure-of-earth-materials-fall-2004/1f8c6f71911526f241cfc9485376d011_lec20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec20.pdf
 uid: 1f8c6f71-9115-26f2-41cf-c9485376d011

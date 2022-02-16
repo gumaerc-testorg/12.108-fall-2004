@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Graphite: C. Courtesy of OCW.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-108-structure-of-earth-materials-fall-2004/4c6ed72736c4c9e1707b31c1f4a77543_lab1-1.jpg
+file: /media/courses/12-108-structure-of-earth-materials-fall-2004/4c6ed72736c4c9e1707b31c1f4a77543_lab1-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Graphite: C.'
   credit: Courtesy of OCW.
   image-alt: graphite is carbon.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Image Gallery: Lab 1'
+parent_type: CourseSection
 resourcetype: Image
 title: lab1-1.jpg
 uid: 4c6ed727-36c4-c9e1-707b-31c1f4a77543

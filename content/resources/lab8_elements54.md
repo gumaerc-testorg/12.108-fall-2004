@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Laboratory experiments and research questions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-108-structure-of-earth-materials-fall-2004/d86a56252cfb0ad98110ec431e10cf68_lab8_elements54.pdf
+file: /media/courses/12-108-structure-of-earth-materials-fall-2004/d86a56252cfb0ad98110ec431e10cf68_lab8_elements54.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab8_elements54.pdf
 uid: d86a5625-2cfb-0ad9-8110-ec431e10cf68

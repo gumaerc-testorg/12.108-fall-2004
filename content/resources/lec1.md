@@ -3,8 +3,13 @@ content_type: resource
 description: 'Notes from the lecture covering the following topics: Definition of
   a mineral, symmetry, translations and lattices in 2D, and combining point symmetry
   operations with 2D translations.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-108-structure-of-earth-materials-fall-2004/983565195599eeea83723c7e931b5bea_lec1.pdf
+file: /media/courses/12-108-structure-of-earth-materials-fall-2004/983565195599eeea83723c7e931b5bea_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1.pdf
 uid: 98356519-5599-eeea-8372-3c7e931b5bea
