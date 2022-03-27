@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Sulfides
 parent_type: CourseSection
+parent_uid: 63dcdc73-4b0f-ec00-8bde-580930401c67
 resourcetype: Image
 title: lab1-7.jpg
 uid: f5b2ddbf-b010-cc9f-8065-5a0688d79f19

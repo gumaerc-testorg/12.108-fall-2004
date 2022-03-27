@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 1344fedf-10cc-160f-69dd-dce324e6de68
 resourcetype: Document
 title: lab8_elements54.pdf
 uid: d86a5625-2cfb-0ad9-8110-ec431e10cf68

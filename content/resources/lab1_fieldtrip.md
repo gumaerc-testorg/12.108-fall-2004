@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 1344fedf-10cc-160f-69dd-dce324e6de68
 resourcetype: Document
 title: lab1_fieldtrip.pdf
 uid: 3543be15-78db-af0c-2fb2-42d78c88d019

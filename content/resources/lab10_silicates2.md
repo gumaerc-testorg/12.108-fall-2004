@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 1344fedf-10cc-160f-69dd-dce324e6de68
 resourcetype: Document
 title: lab10_silicates2.pdf
 uid: ab2ca193-189d-57e6-927e-cc7227f4f91a

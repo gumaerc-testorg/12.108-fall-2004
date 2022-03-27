@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Sulfates
 parent_type: CourseSection
+parent_uid: 394fa709-f46b-f920-8a2f-14672616bd39
 resourcetype: Image
 title: lab4-5.jpg
 uid: a75938fc-0ea7-e396-4bbe-806cee332147

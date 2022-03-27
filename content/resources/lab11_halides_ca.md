@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 1344fedf-10cc-160f-69dd-dce324e6de68
 resourcetype: Document
 title: lab11_halides_ca.pdf
 uid: a9c7d728-67e9-eb8f-e500-b64521d34e40
