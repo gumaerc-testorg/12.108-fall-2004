@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Laboratory experiments and research questions.
-file: /media/courses/12-108-structure-of-earth-materials-fall-2004/a58188e6eff105b981c5838aad10e361_lab4_packing_s.pdf
+file: /courses/12-108-structure-of-earth-materials-fall-2004/a58188e6eff105b981c5838aad10e361_lab4_packing_s.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lab4_packing_s.pdf
 uid: a58188e6-eff1-05b9-81c5-838aad10e361
 ---
+Laboratory experiments and research questions.
+

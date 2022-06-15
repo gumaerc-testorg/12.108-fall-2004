@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ TOPICS
 Lec 1
 {{< tdclose >}}
 {{< tdopen >}}
-2-D Symmetry Operations ([PDF]({{< baseurl >}}/resources/lec1))
+2-D Symmetry Operations ({{% resource_link 98356519-5599-eeea-8372-3c7e931b5bea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Lec 2
 Lec 3
 {{< tdclose >}}
 {{< tdopen >}}
-Point Groups and Space Groups ([PDF]({{< baseurl >}}/resources/lec2))
+Point Groups and Space Groups ({{% resource_link 5e35dff7-8562-ee21-c932-a96d65bd5dde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +65,7 @@ Point Groups and Space Groups ([PDF]({{< baseurl >}}/resources/lec2))
 Lec 4
 {{< tdclose >}}
 {{< tdopen >}}
-Coordination Number and Polyhedra ([PDF]({{< baseurl >}}/resources/lec4))
+Coordination Number and Polyhedra ({{% resource_link d117dc60-6fa9-ef05-8718-2d015b366b7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ Coordination Number and Polyhedra ([PDF]({{< baseurl >}}/resources/lec4))
 Lec 5
 {{< tdclose >}}
 {{< tdopen >}}
-Bonding Models - Ionic - Electrostatics ([PDF]({{< baseurl >}}/resources/lec5))
+Bonding Models - Ionic - Electrostatics ({{% resource_link 5e726270-2861-e059-c40e-644871648b54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Bonding Models - Covalent - Metallic
 Lec 7
 {{< tdclose >}}
 {{< tdopen >}}
-Crystal Lattices - Reciprocal Lattices ([PDF]({{< baseurl >}}/resources/lec7))
+Crystal Lattices - Reciprocal Lattices ({{% resource_link 9df65425-0315-660f-294b-f6c9acd49ae1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Crystal Lattices - Reciprocal Lattices ([PDF]({{< baseurl >}}/resources/lec7))
 Lec 8
 {{< tdclose >}}
 {{< tdopen >}}
-X-ray Generation, Diffraction, Bragg's Law ([PDF]({{< baseurl >}}/resources/lec8))
+X-ray Generation, Diffraction, Bragg's Law ({{% resource_link a1299436-a845-3f45-0d1e-4752191147b1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +122,7 @@ X-ray Generation, Diffraction, Bragg's Law ([PDF]({{< baseurl >}}/resources/lec8
 Lec 9
 {{< tdclose >}}
 {{< tdopen >}}
-Earth's Element Inventory - Metals and Sulfides ([PDF]({{< baseurl >}}/resources/lec9))
+Earth's Element Inventory - Metals and Sulfides ({{% resource_link 9a6e89ba-41b8-ea4b-65fa-1bbe057e24c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +131,7 @@ Earth's Element Inventory - Metals and Sulfides ([PDF]({{< baseurl >}}/resources
 Lec 10
 {{< tdclose >}}
 {{< tdopen >}}
-High P Mantle Mineralogy ([PDF]({{< baseurl >}}/resources/lec10))
+High P Mantle Mineralogy ({{% resource_link 92d1b1a6-c57d-d1d6-19da-54cd8c826250 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ High P Mantle Mineralogy ([PDF]({{< baseurl >}}/resources/lec10))
 Lec 11
 {{< tdclose >}}
 {{< tdopen >}}
-Pyriboles ([PDF]({{< baseurl >}}/resources/lecture8))
+Pyriboles ({{% resource_link c51373bc-0450-242b-dcbc-084df153a9de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +149,7 @@ Pyriboles ([PDF]({{< baseurl >}}/resources/lecture8))
 Lec 12
 {{< tdclose >}}
 {{< tdopen >}}
-Feldspar, Quartz ([PDF]({{< baseurl >}}/resources/lecture9))
+Feldspar, Quartz ({{% resource_link 541b131c-4818-92d8-18bd-c8a6a430ee90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Feldspar, Quartz ([PDF]({{< baseurl >}}/resources/lecture9))
 Lec 13
 {{< tdclose >}}
 {{< tdopen >}}
-Carbonates, Sulfates, etc. ([PDF]({{< baseurl >}}/resources/lecture10))
+Carbonates, Sulfates, etc. ({{% resource_link 038adfe8-5119-2444-b6b8-248ef89cbc63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +173,7 @@ Carbonates, Sulfates, etc. ([PDF]({{< baseurl >}}/resources/lecture10))
 Lec 14
 {{< tdclose >}}
 {{< tdopen >}}
-Tensor Properties ([PDF]({{< baseurl >}}/resources/lec14))
+Tensor Properties ({{% resource_link c4fbb1bc-c3db-99f2-adf3-22072b5a76d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +182,7 @@ Tensor Properties ([PDF]({{< baseurl >}}/resources/lec14))
 Lec 15
 {{< tdclose >}}
 {{< tdopen >}}
-Representation Quadrics ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec15))
+Representation Quadrics ({{% resource_link 831fea8b-4c38-8357-8614-a2b1f8097644 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +197,7 @@ Representation Quadrics ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec15))
 Lec 16
 {{< tdclose >}}
 {{< tdopen >}}
-The Interaction of Electric Fields with Crystals: An Introduction to Crystal Optics ([PDF]({{< baseurl >}}/resources/lec17))
+The Interaction of Electric Fields with Crystals: An Introduction to Crystal Optics ({{% resource_link 1c118521-5f29-dae2-cba4-fb34ba421fc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ The Interaction of Electric Fields with Crystals: An Introduction to Crystal Opt
 Lec 17
 {{< tdclose >}}
 {{< tdopen >}}
-Optical Indicatrices ([PDF]({{< baseurl >}}/resources/lecture11))
+Optical Indicatrices ({{% resource_link 458cd43b-fba1-a766-d0d7-5ec87b0b0913 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +215,7 @@ Optical Indicatrices ([PDF]({{< baseurl >}}/resources/lecture11))
 Lec 18
 {{< tdclose >}}
 {{< tdopen >}}
-Optical Properties ([PDF]({{< baseurl >}}/resources/lecture12))
+Optical Properties ({{% resource_link 44127fe2-5200-4e36-404e-0959482f00b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +230,7 @@ Optical Properties ([PDF]({{< baseurl >}}/resources/lecture12))
 Lec 19
 {{< tdclose >}}
 {{< tdopen >}}
-Stress and Strain ([PDF]({{< baseurl >}}/resources/lec19))
+Stress and Strain ({{% resource_link 8275dff9-c42e-5ec1-9f12-d8e578880795 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +239,7 @@ Stress and Strain ([PDF]({{< baseurl >}}/resources/lec19))
 Lec 20
 {{< tdclose >}}
 {{< tdopen >}}
-Stiffness and Compliance ([PDF]({{< baseurl >}}/resources/lec20))
+Stiffness and Compliance ({{% resource_link 1f8c6f71-9115-26f2-41cf-c9485376d011 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

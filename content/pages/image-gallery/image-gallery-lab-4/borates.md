@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: http://ocwcms.mit.edu/courses/earth-atmospheric-and-planetary-sciences/12-108-structure-of-earth-materials-fall-2004/image-gallery/image-gallery-lab-4/portal_factory/CourseSection/coursesection.2011-04-18.2995724233/#fieldsetlegend-settings
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Image Gallery: Lab 4'

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Olivine: (Mg,Fe)2SiO4. Courtesy of OCW.'
-file: /media/courses/12-108-structure-of-earth-materials-fall-2004/b632beb4f299f48c26a1c5c42fe0f4cf_lab2-1.jpg
+file: /courses/12-108-structure-of-earth-materials-fall-2004/b632beb4f299f48c26a1c5c42fe0f4cf_lab2-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Olivine: (Mg,Fe){{< sub "2" >}}SiO{{< sub "4" >}}.'
@@ -16,3 +16,5 @@ resourcetype: Image
 title: lab2-1.jpg
 uid: b632beb4-f299-f48c-26a1-c5c42fe0f4cf
 ---
+Olivine: (Mg,Fe)2SiO4. Courtesy of OCW.
+

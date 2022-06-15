@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Massive granular celestite crystals: SrSO4. Courtesy of OCW.'
-file: /media/courses/12-108-structure-of-earth-materials-fall-2004/ec4c3bc8acb52d437b5c6c1ee9a7397f_lab4-6.jpg
+file: /courses/12-108-structure-of-earth-materials-fall-2004/ec4c3bc8acb52d437b5c6c1ee9a7397f_lab4-6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Massive granular celestite crystals: SrSO{{< sub "4" >}}.'
@@ -16,3 +16,5 @@ resourcetype: Image
 title: lab4-6.jpg
 uid: ec4c3bc8-acb5-2d43-7b5c-6c1ee9a7397f
 ---
+Massive granular celestite crystals: SrSO4. Courtesy of OCW.
+

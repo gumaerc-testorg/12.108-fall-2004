@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Bladed kyanite: Al2SiO5. Courtesy of OCW.'
-file: /media/courses/12-108-structure-of-earth-materials-fall-2004/2a04cacb0fbcd0cca8b050dba588fd15_lab2-7.jpg
+file: /courses/12-108-structure-of-earth-materials-fall-2004/2a04cacb0fbcd0cca8b050dba588fd15_lab2-7.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Bladed kyanite: Al{{< sub "2" >}}SiO{{< sub "5" >}}.'
@@ -16,3 +16,5 @@ resourcetype: Image
 title: lab2-7.jpg
 uid: 2a04cacb-0fbc-d0cc-a8b0-50dba588fd15
 ---
+Bladed kyanite: Al2SiO5. Courtesy of OCW.
+
