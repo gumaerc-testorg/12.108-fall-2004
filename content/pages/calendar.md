@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information of lectures and labs.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2af6aa7b-1105-6f3e-1f20-831ea63b0139
 ---
