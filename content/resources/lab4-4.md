@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: gypsum is calcium sulfate.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Sulfates
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab4-4.jpg
 uid: 328fb82d-2a9b-2a07-c3f9-dab9bb5a7367
 ---
 Gypsum twins: CaSO4-2H2O. Courtesy of OCW.
-

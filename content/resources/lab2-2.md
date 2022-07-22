@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: garnet.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Image Gallery: Lab 2'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lab2-2.jpg
 uid: be31d06d-d122-dda4-ef07-fbcfc4b71083
 ---
 Garnet: (Mg,Fe,Mn,Ca)3Al2Si3O12. Courtesy of OCW.
-

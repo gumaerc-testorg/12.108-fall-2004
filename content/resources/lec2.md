@@ -7,6 +7,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/5e35dff78562ee21c93
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec2.pdf
 uid: 5e35dff7-8562-ee21-c932-a96d65bd5dde
 ---
 Notes from the lecture covering the following topics: Screw axes, rotoinversion, space point groups, onward to space groups: 3D lattices, space groups, and summary of symmetry groups.
-

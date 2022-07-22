@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: barite is barium sulfate.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Sulfates
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab4-5.jpg
 uid: a75938fc-0ea7-e396-4bbe-806cee332147
 ---
 Barite crystals: BaSO4. Courtesy of OCW.
-

@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/d117dc606fa9ef05871
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec4.pdf
 uid: d117dc60-6fa9-ef05-8718-2d015b366b7d
 ---
 Notes from the lecture covering Pauling?s rules for ionic structures.
-

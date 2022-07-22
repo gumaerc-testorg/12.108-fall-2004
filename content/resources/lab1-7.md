@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: pyrrhotite is iron sulfide.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Sulfides
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab1-7.jpg
 uid: f5b2ddbf-b010-cc9f-8065-5a0688d79f19
 ---
 Pyrrhotite: Fe1-xS. Courtesy of OCW.
-

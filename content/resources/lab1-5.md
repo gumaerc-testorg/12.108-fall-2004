@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: pyrite is iron disulfide.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Sulfides
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab1-5.jpg
 uid: 56b07ae5-c7bb-8087-af40-52df1dd6c713
 ---
 Pyrite: FeS2. Courtesy of OCW.
-

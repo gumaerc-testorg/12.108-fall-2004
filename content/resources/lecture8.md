@@ -6,6 +6,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/c51373bc0450242bdcb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture8.pdf
 uid: c51373bc-0450-242b-dcbc-084df153a9de
 ---
 Notes from the lecture covering the following topics: Silicate taxonomy, nesosilicates, sorosilicates, single chain inosilicates, and double chain inosilicates.
-

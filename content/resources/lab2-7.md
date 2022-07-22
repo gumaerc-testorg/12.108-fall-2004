@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: kyanite is an aluminum silicate.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Image Gallery: Lab 2'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab2-7.jpg
 uid: 2a04cacb-0fbc-d0cc-a8b0-50dba588fd15
 ---
 Bladed kyanite: Al2SiO5. Courtesy of OCW.
-

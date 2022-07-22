@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/a1299436a8453f450d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec8.pdf
 uid: a1299436-a845-3f45-0d1e-4752191147b1
 ---
 Summary of the topics covered in the lecture.
-

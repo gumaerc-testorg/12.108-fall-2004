@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/0d998c1e6aa3e6ef5d4
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab3_3dsymmetry.pdf
 uid: 0d998c1e-6aa3-e6ef-5d45-df7c3e407b5d
 ---
 Laboratory experiments and research questions.
-

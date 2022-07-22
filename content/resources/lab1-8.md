@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: galena is lead sulfide.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Sulfides
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab1-8.jpg
 uid: c7d98ef7-c661-2b79-9b23-818bba78f093
 ---
 Galena: PbS. Courtesy of OCW.
-

@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/717746f7b2619d2db09
 file_type: application/octet-stream
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

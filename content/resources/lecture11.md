@@ -8,6 +8,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/458cd43bfba1a766d0d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lecture11.pdf
 uid: 458cd43b-fba1-a766-d0d7-5ec87b0b0913
 ---
 Notes from the lecture covering the following topics: The optical microscope, refractive index and relief, isotropic vs anisotropic minerals, identifying isotropic minerals, beckeline method, identifying anisotropic minerals, optical indicatrix, interference colors, using interference colors for and identification.
-

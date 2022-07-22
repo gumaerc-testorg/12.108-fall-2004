@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: sulfur.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Image Gallery: Lab 1'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab1-2.jpg
 uid: 11a4121e-fada-717c-6007-c6e98864e283
 ---
 Sulfur: S. Courtesy of OCW.
-

@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/ab2ca193189d57e6927
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab10_silicates2.pdf
 uid: ab2ca193-189d-57e6-927e-cc7227f4f91a
 ---
 Laboratory experiments and research questions.
-

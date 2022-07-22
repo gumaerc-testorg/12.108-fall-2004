@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: apatite is a calcium phosphate.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Phosphates
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab4-9.jpg
 uid: 3355cc92-6069-4f1d-89c2-e13913f4ffa0
 ---
 Apatite: Ca5(PO4)3(OH,F,Cl). Courtesy of OCW.
-

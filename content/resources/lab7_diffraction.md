@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/beebba5379d149ccb90
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab7_diffraction.pdf
 uid: beebba53-79d1-49cc-b906-612747126e4c
 ---
 Laboratory experiments and research questions.
-

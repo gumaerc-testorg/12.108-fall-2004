@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/bbc3059c70a4fd3ed65
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab16_optics4.pdf
 uid: bbc3059c-70a4-fd3e-d654-7cf9b3ef6dde
 ---
 Laboratory experiments and research questions.
-

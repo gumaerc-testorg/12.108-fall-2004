@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/19774670217425fd7ce
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab15.pdf
 uid: 19774670-2174-25fd-7ce1-2729b3249560
 ---
 Laboratory experiments and research questions.
-

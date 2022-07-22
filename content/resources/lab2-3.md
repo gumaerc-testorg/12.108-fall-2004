@@ -10,6 +10,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: Large garnet trapezohedron and smaller garnet crystals.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Image Gallery: Lab 2'
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lab2-3.jpg
 uid: 25adb33e-96b4-bf19-c115-8dc6a96148b3
 ---
 Large garnet trapezohedron and smaller garnet crystals: (Mg,Fe,Mn,Ca)3Al2Si3O12. Courtesy of OCW.
-

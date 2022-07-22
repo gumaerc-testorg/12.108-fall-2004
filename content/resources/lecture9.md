@@ -6,6 +6,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/541b131c481892d818b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture9.pdf
 uid: 541b131c-4818-92d8-18bd-c8a6a430ee90
 ---
 Notes from the lecture covering the following topics: Phyllosilicates, and tectosilicates.
-

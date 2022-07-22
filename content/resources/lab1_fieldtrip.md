@@ -6,6 +6,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/3543be1578dbaf0c2fb
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab1_fieldtrip.pdf
 uid: 3543be15-78db-af0c-2fb2-42d78c88d019
 ---
 This lab assignment asks students to provide an overview of earth materials at Harvard University Museum's gem and mineral exhibit.
-

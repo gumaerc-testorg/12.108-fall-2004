@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: garnet mica schist.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Image Gallery: Lab 2'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab2-4.jpg
 uid: 49f644a9-6b24-bd68-6a0a-f991d87971a9
 ---
 Garnet mica schist. Courtesy of OCW.
-

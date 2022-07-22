@@ -5,6 +5,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/a9c7d72867e9eb8fe50
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab11_halides_ca.pdf
 uid: a9c7d728-67e9-eb8f-e500-b64521d34e40
 ---
 Laboratory experiments and research questions.
-

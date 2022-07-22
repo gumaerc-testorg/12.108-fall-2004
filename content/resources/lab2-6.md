@@ -10,6 +10,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: zircon is zirconium silicate.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Image Gallery: Lab 2'
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: lab2-6.jpg
 uid: 8457bec4-fc94-4a96-3fd8-81caeaa6af6f
 ---
 Single euhedral zircon crystal with coarse massive zircon crystals: ZrSiO4. Courtesy of OCW.
-

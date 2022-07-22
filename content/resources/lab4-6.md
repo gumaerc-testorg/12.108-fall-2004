@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: celestite is strontium sulfate.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Sulfates
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab4-6.jpg
 uid: ec4c3bc8-acb5-2d43-7b5c-6c1ee9a7397f
 ---
 Massive granular celestite crystals: SrSO4. Courtesy of OCW.
-

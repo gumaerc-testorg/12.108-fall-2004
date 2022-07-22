@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: olivine is a magnesium/iron silicate.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Image Gallery: Lab 2'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab2-1.jpg
 uid: b632beb4-f299-f48c-26a1-c5c42fe0f4cf
 ---
 Olivine: (Mg,Fe)2SiO4. Courtesy of OCW.
-

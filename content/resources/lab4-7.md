@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: borax is a sodium borate.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Borates
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lab4-7.jpg
 uid: 8c7b321a-6e20-857f-ce18-bd0f079206c0
 ---
 Massive granular borax: Na2B4O5(OH)4-8H2O. Courtesy of OCW.
-

@@ -7,6 +7,7 @@ file: /courses/12-108-structure-of-earth-materials-fall-2004/44127fe252004e36404
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture12.pdf
 uid: 44127fe2-5200-4e36-404e-0959482f00b9
 ---
 Notes from the lecture covering the following topics: Interference figures, uniaxial interference figures, optic sign, biaxial interference figures, and optic sign of biaxial minerals.
-

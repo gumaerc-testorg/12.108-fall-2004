@@ -8,6 +8,7 @@ image_metadata:
   credit: Courtesy of OCW.
   image-alt: graphite is carbon.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Image Gallery: Lab 1'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab1-1.jpg
 uid: 4c6ed727-36c4-c9e1-707b-31c1f4a77543
 ---
 Graphite: C. Courtesy of OCW.
-
