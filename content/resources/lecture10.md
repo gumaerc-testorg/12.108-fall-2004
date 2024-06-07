@@ -3,6 +3,7 @@ content_type: resource
 description: 'Notes from the lecture covering the following topics: The Al2SiO5 group,
   and carbonates.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/038adfe851192444b6b8248ef89cbc63_lecture10.pdf
+file_size: 96486
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

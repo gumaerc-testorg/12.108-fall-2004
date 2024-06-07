@@ -5,6 +5,7 @@ description: 'Notes from the lecture covering the following topics: The optical 
   minerals, beckeline method, identifying anisotropic minerals, optical indicatrix,
   interference colors, using interference colors for and identification.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/458cd43bfba1a766d0d75ec87b0b0913_lecture11.pdf
+file_size: 287243
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

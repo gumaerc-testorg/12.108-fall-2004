@@ -3,6 +3,7 @@ content_type: resource
 description: 'Notes from the lecture covering the following topics: Assigned reading,
   resource reading, infinitesimal strain, and infinitesimal three dimensional strain.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/8275dff9c42e5ec19f12d8e578880795_lec19.pdf
+file_size: 164086
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
