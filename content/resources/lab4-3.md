@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Massive granular sylvite: KCl. Courtesy of OCW.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/672010dc3e97ef34864950b40057792e_lab4-3.jpg
+file_size: 30153
 file_type: image/jpeg
 image_metadata:
   caption: 'Massive granular sylvite: KCl.'

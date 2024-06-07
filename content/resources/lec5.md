@@ -5,6 +5,7 @@ description: 'Notes from the lecture covering the following topics: Ionic bonds,
   bonds, metallic bonds, intramolecular vs. intermolecular bonds, dipole-dipole bonds,
   van der Waals bonds, hydrogen bonds, bonding and physical properties.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/5e7262702861e059c40e644871648b54_lec5.pdf
+file_size: 248659
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

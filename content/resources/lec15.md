@@ -5,6 +5,7 @@ description: 'Notes from the lecture covering the following topics: Review quest
   between quadric and crystal axes, tensor properties, quadric surfaces: summary,
   and bibliography.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/831fea8b4c3883578614a2b1f8097644_lec15.pdf
+file_size: 1033403
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

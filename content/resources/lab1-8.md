@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Galena: PbS. Courtesy of OCW.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/c7d98ef7c6612b799b23818bba78f093_lab1-8.jpg
+file_size: 35155
 file_type: image/jpeg
 image_metadata:
   caption: 'Galena: PbS.'
