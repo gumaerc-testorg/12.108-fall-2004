@@ -2,6 +2,7 @@
 content_type: resource
 description: Laboratory experiments and research questions.
 file: /courses/12-108-structure-of-earth-materials-fall-2004/d46f6ba69580aebbf8df99646bec0a76_lab17instruction.pdf
+file_size: 76543
 file_type: application/pdf
 learning_resource_types:
 - Labs

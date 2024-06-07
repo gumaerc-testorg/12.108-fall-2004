@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Andalusite (chiastolite) in mica schist: Al2SiO5. Courtesy of OCW.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/b980660304bed857d52545cbc66c215f_lab2-9.jpg
+file_size: 26967
 file_type: image/jpeg
 image_metadata:
   caption: 'Andalusite (chiastolite) in mica schist: Al{{< sub "2" >}}SiO{{< sub "5"

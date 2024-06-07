@@ -4,6 +4,7 @@ description: 'Notes from the lecture covering the following topics: Screw axes, 
   space point groups, onward to space groups: 3D lattices, space groups, and summary
   of symmetry groups.'
 file: /courses/12-108-structure-of-earth-materials-fall-2004/5e35dff78562ee21c932a96d65bd5dde_lec2.pdf
+file_size: 733128
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
