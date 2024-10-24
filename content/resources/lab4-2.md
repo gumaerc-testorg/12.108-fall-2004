@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Intergrown halite cubes: NaCl. Courtesy of OCW.'
-file: /courses/12-108-structure-of-earth-materials-fall-2004/9df259958c5a77c7dbefece6b5f9d82a_lab4-2.jpg
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/9df259958c5a77c7dbefece6b5f9d82a_lab4-2.jpg
 file_size: 37284
 file_type: image/jpeg
 image_metadata:

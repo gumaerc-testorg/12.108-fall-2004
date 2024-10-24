@@ -3,7 +3,7 @@ content_type: resource
 description: 'Notes from the lecture covering the following topics: Properties as
   tensors, scalars, vectors, and tensors, second rank tensor properties, some important
   remarks about symmetric second-rank tensors and resources.'
-file: /courses/12-108-structure-of-earth-materials-fall-2004/c4fbb1bcc3db99f2adf322072b5a76d1_lec14.pdf
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/c4fbb1bcc3db99f2adf322072b5a76d1_lec14.pdf
 file_size: 293375
 file_type: application/pdf
 learning_resource_types:
