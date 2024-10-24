@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-108-structure-of-earth-materials-fall-2004/717746f7b2619d2db093b5feb7276536_vssver.scc
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/717746f7b2619d2db093b5feb7276536_vssver.scc
 file_size: 336
 file_type: application/octet-stream
 learning_resource_types:
