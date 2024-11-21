@@ -6,10 +6,10 @@ ocw_type: CourseSection
 parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: 9ce8cefa-f386-eeea-9401-396765d8b926
+show_section_pages: true
 title: 'Image Gallery: Lab 3'
 uid: ae788cbe-c82c-3cef-5f2a-d67ac8b10d74
 ---
-
 Single Chain Ino-Silicates (Pyroxenes)
 --------------------------------------
 {{< image-gallery id="ae788cbe-c82c-3cef-5f2a-d67ac8b10d74_nanogallery2" baseUrl="/courses/12-108-structure-of-earth-materials-fall-2004/" >}}
