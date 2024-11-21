@@ -6,7 +6,6 @@ ocw_type: CourseSection
 title: Image Gallery
 uid: 9ce8cefa-f386-eeea-9401-396765d8b926
 ---
-
 These galleries contain images of the hand samples studied in the mineral labs, presented with their chemical formulas. Each gallery corresponds to both a {{% resource_link 1344fedf-10cc-160f-69dd-dce324e6de68 "lab" %}} exercise and a set of {{% resource_link 7d296d81-2189-7753-1ebc-270cd7db3a21 "lecture notes" %}} (given below).
 
 {{< tableopen >}}
