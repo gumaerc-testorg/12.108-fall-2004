@@ -6,10 +6,10 @@ ocw_type: CourseSection
 parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: 9ce8cefa-f386-eeea-9401-396765d8b926
+show_section_pages: true
 title: 'Image Gallery: Lab 4'
 uid: 0dfe48aa-ba11-c61c-d02f-246d0e4d4e97
 ---
-
 Halides
 -------
 {{< image-gallery id="0dfe48aa-ba11-c61c-d02f-246d0e4d4e97_nanogallery2" baseUrl="/courses/12-108-structure-of-earth-materials-fall-2004/" >}}

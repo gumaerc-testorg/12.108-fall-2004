@@ -6,10 +6,10 @@ ocw_type: CourseSection
 parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: 9ce8cefa-f386-eeea-9401-396765d8b926
+show_section_pages: true
 title: 'Image Gallery: Lab 2'
 uid: 025f5e90-c11a-2ee5-6b09-b097d7d93d2a
 ---
-
 Neso Silicates
 --------------
 {{< image-gallery id="025f5e90-c11a-2ee5-6b09-b097d7d93d2a_nanogallery2" baseUrl="/courses/12-108-structure-of-earth-materials-fall-2004/" >}}
