@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Graphite: C. Courtesy of OCW.'
-file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/4c6ed72736c4c9e1707b31c1f4a77543_lab1-1.jpg
+file: courses/12-108-structure-of-earth-materials-fall-2004/4c6ed72736c4c9e1707b31c1f4a77543_lab1-1.jpg
 file_size: 39751
 file_type: image/jpeg
 image_metadata:

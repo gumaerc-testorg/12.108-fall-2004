@@ -3,7 +3,7 @@ content_type: resource
 description: 'Notes from the lecture covering the following topics: Earth?s bulk composition,
   earth?s structure, the core, before moving to the Mantle: digression into sulfur
   and sulfides.'
-file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/9a6e89ba41b8ea4b65fa1bbe057e24c4_lec9.pdf
+file: courses/12-108-structure-of-earth-materials-fall-2004/9a6e89ba41b8ea4b65fa1bbe057e24c4_lec9.pdf
 file_size: 97341
 file_type: application/pdf
 learning_resource_types:

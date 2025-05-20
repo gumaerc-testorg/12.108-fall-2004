@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Large garnet trapezohedron and smaller garnet crystals: (Mg,Fe,Mn,Ca)3Al2Si3O12.
   Courtesy of OCW.'
-file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/25adb33e96b4bf19c1158dc6a96148b3_lab2-3.jpg
+file: courses/12-108-structure-of-earth-materials-fall-2004/25adb33e96b4bf19c1158dc6a96148b3_lab2-3.jpg
 file_size: 35720
 file_type: image/jpeg
 image_metadata:

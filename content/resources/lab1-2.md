@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Sulfur: S. Courtesy of OCW.'
-file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/11a4121efada717c6007c6e98864e283_lab1-2.jpg
+file: courses/12-108-structure-of-earth-materials-fall-2004/11a4121efada717c6007c6e98864e283_lab1-2.jpg
 file_size: 68815
 file_type: image/jpeg
 image_metadata:
