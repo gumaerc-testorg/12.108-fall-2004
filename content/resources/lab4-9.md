@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Apatite: Ca5(PO4)3(OH,F,Cl). Courtesy of OCW.'
-file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/3355cc9260694f1d89c2e13913f4ffa0_lab4-9.jpg
+file: courses/12-108-structure-of-earth-materials-fall-2004/3355cc9260694f1d89c2e13913f4ffa0_lab4-9.jpg
 file_size: 27551
 file_type: image/jpeg
 image_metadata:
