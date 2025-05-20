@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Laboratory experiments and research questions.
-file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/bbc3059c70a4fd3ed6547cf9b3ef6dde_lab16_optics4.pdf
+file: courses/12-108-structure-of-earth-materials-fall-2004/bbc3059c70a4fd3ed6547cf9b3ef6dde_lab16_optics4.pdf
 file_size: 97008
 file_type: application/pdf
 learning_resource_types:

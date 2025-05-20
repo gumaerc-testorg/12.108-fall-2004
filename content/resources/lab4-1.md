@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Fluorite: CaF2. Courtesy of OCW.'
 draft: false
-file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/0758f883d48b9c6056c422af1f858267_lab4-1.jpg
+file: courses/12-108-structure-of-earth-materials-fall-2004/0758f883d48b9c6056c422af1f858267_lab4-1.jpg
 file_size: 26765
 file_type: image/jpeg
 image_metadata:
