@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Garnet mica schist. Courtesy of OCW.
-file: courses/12-108-structure-of-earth-materials-fall-2004/d2a4ba281999c603b4744c51284187eb_lab2-5.jpg
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/d2a4ba281999c603b4744c51284187eb_lab2-5.jpg
 file_size: 40752
 file_type: image/jpeg
 image_metadata:

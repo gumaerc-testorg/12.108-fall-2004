@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Laboratory experiments and research questions.
-file: courses/12-108-structure-of-earth-materials-fall-2004/beebba5379d149ccb906612747126e4c_lab7_diffraction.pdf
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/beebba5379d149ccb906612747126e4c_lab7_diffraction.pdf
 file_size: 138395
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Native Copper: Cu. Courtesy of OCW.'
-file: courses/12-108-structure-of-earth-materials-fall-2004/62972c2293b51699194173482172bc65_lab1-3.jpg
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/62972c2293b51699194173482172bc65_lab1-3.jpg
 file_size: 52203
 file_type: image/jpeg
 image_metadata:

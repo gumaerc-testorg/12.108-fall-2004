@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes from the lecture covering Pauling?s rules for ionic structures.
-file: courses/12-108-structure-of-earth-materials-fall-2004/d117dc606fa9ef0587182d015b366b7d_lec4.pdf
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/d117dc606fa9ef0587182d015b366b7d_lec4.pdf
 file_size: 136315
 file_type: application/pdf
 learning_resource_types:

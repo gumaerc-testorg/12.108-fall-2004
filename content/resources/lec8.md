@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of the topics covered in the lecture.
-file: courses/12-108-structure-of-earth-materials-fall-2004/a1299436a8453f450d1e4752191147b1_lec8.pdf
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/a1299436a8453f450d1e4752191147b1_lec8.pdf
 file_size: 281970
 file_type: application/pdf
 learning_resource_types:
