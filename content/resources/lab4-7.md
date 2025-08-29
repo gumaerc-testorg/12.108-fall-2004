@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Massive granular borax: Na2B4O5(OH)4-8H2O. Courtesy of OCW.'
 draft: false
-file: courses/12-108-structure-of-earth-materials-fall-2004/8c7b321a6e20857fce18bd0f079206c0_lab4-7.jpg
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/8c7b321a6e20857fce18bd0f079206c0_lab4-7.jpg
 file_size: 30470
 file_type: image/jpeg
 image_metadata:
