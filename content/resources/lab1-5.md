@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Pyrite: FeS2. Courtesy of OCW.'
 draft: false
-file: courses/12-108-structure-of-earth-materials-fall-2004/56b07ae5c7bb8087af4052df1dd6c713_lab1-5.jpg
+file: /ol-ocw-studio-app/courses/12-108-structure-of-earth-materials-fall-2004/56b07ae5c7bb8087af4052df1dd6c713_lab1-5.jpg
 file_size: 36448
 file_type: image/jpeg
 image_metadata:
